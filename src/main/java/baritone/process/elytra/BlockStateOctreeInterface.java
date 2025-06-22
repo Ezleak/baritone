@@ -17,9 +17,6 @@
 
 package baritone.process.elytra;
 
-import dev.babbaj.pathfinder.NetherPathfinder;
-import dev.babbaj.pathfinder.Octree;
-
 /**
  * @author Brady
  */
